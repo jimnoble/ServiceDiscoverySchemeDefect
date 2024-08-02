@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDiscoverySchemeDefect.Service", "ServiceDiscoverySchemeDefect.Service\ServiceDiscoverySchemeDefect.Service.csproj", "{58AE78DA-1EE5-4B4C-92BA-8B749830EE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceDiscoverySchemeDefect.Client", "ServiceDiscoverySchemeDefect.Client\ServiceDiscoverySchemeDefect.Client.csproj", "{7DD8640F-5046-45C6-A627-AF025D6A4FD1}"
+EndProject
+Global
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52F01702-B2B1-49A0-9D30-57BDFA04B7A3}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58AE78DA-1EE5-4B4C-92BA-8B749830EE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58AE78DA-1EE5-4B4C-92BA-8B749830EE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58AE78DA-1EE5-4B4C-92BA-8B749830EE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58AE78DA-1EE5-4B4C-92BA-8B749830EE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD8640F-5046-45C6-A627-AF025D6A4FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD8640F-5046-45C6-A627-AF025D6A4FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD8640F-5046-45C6-A627-AF025D6A4FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD8640F-5046-45C6-A627-AF025D6A4FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
